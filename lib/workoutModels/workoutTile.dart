@@ -31,7 +31,7 @@ class _WorkoutTileState extends State<WorkoutTile> {
                   ClipRRect(
                       borderRadius: BorderRadius.circular(8.0),
                       child: FadeInImage.assetNetwork(
-                        placeholder: 'assets/images/Container/playButton.png',
+                        placeholder: 'assets/playButton.png',
                         image:
                             widget.image,
                         height: 75,
