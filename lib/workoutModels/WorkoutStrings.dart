@@ -38,5 +38,8 @@ String writeyourname = "https://raw.githubusercontent.com/Jankeelol/jankeelol.gi
 String zottomanCurls = "https://raw.githubusercontent.com/Jankeelol/jankeelol.github.io/main/img/WorkoutGifs/zottomanCurls.gif";
 
 
+String jumpLunge = "https://raw.githubusercontent.com/Jankeelol/jankeelol.github.io/main/img/WorkoutGifs/JumpLunge.gif";
+
+
 
 

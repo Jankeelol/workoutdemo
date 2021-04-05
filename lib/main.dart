@@ -53,8 +53,8 @@ class DemoPage extends StatelessWidget {
             //Next Workout
             WorkoutText("Warm Up"),
             padding(context),
-            WorkoutTile("Jumping Jacks", "1", "30", jumpingJack,
-                WorkoutScreen("Jumping Jacks", "", jumpingJack)),
+            WorkoutTile("Jumping Jacks", "1", "30", jumpLunge,
+                WorkoutScreen("Jumping Jacks", "", jumpLunge)),
             padding(context),
             WorkoutTile("Arm Circles", "1", "15", armCircle,
                 WorkoutScreen("Arm Circles", "", armCircle)),
